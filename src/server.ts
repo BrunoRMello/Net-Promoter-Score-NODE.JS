@@ -1,0 +1,17 @@
+import "reflect-metadata"
+import express from "express";
+import "./database";
+import { UserController } from './controllers/UsersController'
+import { router } from "./routes";
+
+const app = express();
+
+app.use(express.json());
+app.use(router);
+
+
+
+//htpp://localhost:3333/users
+
+
+app.listen(3333, () => console.log("server is running!"));
