@@ -13,7 +13,7 @@ import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository";
  * (numero de promotores -(menos) nuemro de detratores) / (numero de respondentes) X 100
  */
 class NpsController {
-    async exectue(request: Request, response: Response) {
+    async execute(request: Request, response: Response) {
 
         const { survey_id } = request.params
 
