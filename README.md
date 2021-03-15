@@ -1,6 +1,5 @@
-# Net-Promoter-Score-NODE.JS - NLW Rocketseat
+<h1 align="center">Net-Promoter-Score-NODE.JS - NLW Rocketseat</h1>
 
-<h1 align="center">NPS-NLW</h1>
 
 <p align="center">
   <a href="#-sobre">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
